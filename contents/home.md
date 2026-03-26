@@ -1,20 +1,14 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![HanZm521](https://img.shields.io/badge/HanZm521-github-blue?logo=github)](https://github.com/HanZm521)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Ph.D. degree at the Department of Computer and Information Science, University of Macau, Taipa, Macau 999078, China (Aug. 2023 – present).
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>YC37462@umac.mo</code>  
+
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**University of Macau**, Ph.D. in Computer and Information Science (Aug. 2023 – present)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Sun Yat-sen University**, Bachelor of Science in Mathematics (Sept. 2019 – June 2023)  
+• Campus: Zhuhai
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
